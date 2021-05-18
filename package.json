@@ -1,0 +1,17 @@
+{
+  "name": "start_one",
+  "version": "1.0.0",
+  "main": "electron/main.js",
+  "license": "MIT",
+  "description": "conuntdow for task",
+  "author": "KFI",
+  "private": false,
+  "scripts": {
+    "dev": "",
+    "start": "electron .",
+    "buiild": ""
+  },
+  "devDependencies": {
+    "electron": "^12.0.6"
+  }
+}
