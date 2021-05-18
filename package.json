@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "",
     "start": "electron .",
-    "buiild": ""
+    "build": "npx electron-packager . --icon assets/clock.icns --out=packages"
   },
   "devDependencies": {
     "electron": "^12.0.6"
